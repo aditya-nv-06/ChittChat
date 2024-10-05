@@ -35,7 +35,6 @@ This project is a **real-time chatting application** built using the **MERN stac
 
 ![Chat Interface Screenshot](./screenshots/chat1.png)
 ![Chat Interface Screenshot](./screenshots/chat2.png)
-![Chat Interface Screenshot](./screenshots/chat3.png)
 
 ## Technologies
 
