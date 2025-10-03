@@ -83,6 +83,9 @@ Before you begin, ensure you have the following installed:
    NODE_ENV=development
    \`\`\`
 
+   For mongodb link, use cloud.mongodb.com -> Create Deployment -> Create User -> Allow Traffic 0.0.0.0 -> Connect via drivers ->Use username and password in project.
+   For jwttoken, use '''openssl rand -base64 32''' in your terminal.
+
 ### Running the Project
 
 1. **Start the backend server**:
