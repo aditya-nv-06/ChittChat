@@ -88,7 +88,7 @@ Before you begin, ensure you have the following installed:
 1. **Start the backend server**:
    \`\`\`bash
    cd backend
-   npm run dev
+   npm run server
    \`\`\`
 
 2. **Start the frontend React app**:
