@@ -112,3 +112,24 @@ If you'd like to contribute, feel free to submit a pull request or open an issue
 ## License
 
 This project is licensed under the MIT License.
+
+## 🎉 Hacktoberfest
+
+This project is participating in Hacktoberfest 2025! 🍂
+We welcome contributions from developers of all levels.
+
+### ✅ What you can contribute:
+
+Fix bugs 🐛
+
+Add new features 🚀
+
+Improve documentation 📚
+
+Enhance UI/UX 🎨
+
+### ❌ What will not be accepted:
+
+Spammy or low-quality PRs
+
+Automated PRs without meaningful contribution
