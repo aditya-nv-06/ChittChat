@@ -133,3 +133,6 @@ Enhance UI/UX 🎨
 Spammy or low-quality PRs
 
 Automated PRs without meaningful contribution
+
+Inspiration: ![burakorkmez]((https://github.com/burakorkmez))
+
