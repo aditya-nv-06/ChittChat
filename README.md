@@ -98,7 +98,7 @@ Before you begin, ensure you have the following installed:
 2. **Start the frontend React app**:
    \`\`\`bash
    cd ../frontend
-   npm start
+   npm run dev
    \`\`\`
 
 3. **Access the application**:
