@@ -223,18 +223,13 @@ We welcome contributions! Please follow these steps:
 
 Please follow a respectful and constructive code of conduct. Be kind and open to feedback.
 
----
 
 ## License
 
 This project is licensed under the **MIT License** — see the `LICENSE` file for details.
 
----
 
 ## Acknowledgements
 
 * Project inspiration: burakorkmez and other open-source chat projects.
 * Libraries: Socket.io, Mongoose, Express, React.
----
-
-
