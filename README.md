@@ -2,8 +2,6 @@
 
 A clean, refactored README for the ChittChat project — a responsive real-time chat application built on the MERN stack (MongoDB, Express, React, Node.js) with Socket.io for realtime messaging.
 
----
-
 <!-- Badges (replace with actual links if you add them) -->
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
